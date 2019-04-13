@@ -50,4 +50,6 @@ body {
     color: #ee4444;
 }
 
-.article {margin-bottom: 50px;}
+.disqus {
+    padding-top: 50px;
+}
