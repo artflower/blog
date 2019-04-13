@@ -7,7 +7,7 @@ comments: true
 # stack overflow Developer Survey Results 2019 : R / SQL / Python
 
 ## stack overflow Developer Survey Results 2019
-(https://insights.stackoverflow.com/survey/2019)
+https://insights.stackoverflow.com/survey/2019
 
 ### Programming, Scripting, and Markup Languages
 ~~~

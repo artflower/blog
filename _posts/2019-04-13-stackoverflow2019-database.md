@@ -7,7 +7,7 @@ comments: true
 # stack overflow Developer Survey Results 2019 데이터베이스
 
 ## stack overflow Developer Survey Results 2019
-(https://insights.stackoverflow.com/survey/2019)
+https://insights.stackoverflow.com/survey/2019
 
 ### 사용하고 있는 데이터베이스 순위
 ~~~
