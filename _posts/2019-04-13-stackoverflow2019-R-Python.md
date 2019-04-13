@@ -22,11 +22,11 @@ HTML, SQL 사용이 많고 Python과 R의 전체적인 사용자는 많은 차�
 
 loved, dreaded, wanted에 대한 비율은 아래와 같습니다.
 
-language |     loved     |     dreaded     |     wanted    
----------|---------------|-----------------|----------------
-R | 51.7% | 48.3% | 4.9%
-SQL | 64.1% | 35.9% | 7.6%
-Python | 73.1% | - | 25.7%
+language | &nbsp; loved &nbsp; | &nbsp; dreaded &nbsp; | &nbsp; wanted &nbsp;
+--|--:|--:|--:
+<center>R</center> | 51.7% | 48.3% | 4.9%
+<center>SQL</center> | 64.1% | 35.9% | 7.6%
+<center>Python</center> | 73.1% | - | 25.7%
 
 
 ### What Languages Are Associated with the Highest Salaries Worldwide?
