@@ -11,14 +11,14 @@ https://severalnines.com/blog/popular-docker-images-mysql-and-mariadb-server
 
 해당 글을 보다가 좀 더 궁금한 사항들이 있어서 버전별로 좀 더 확인을 해 봤습니다.
 
-repository | version(tag) | size | OS
+repository | &nbsp;version(tag)&nbsp; | &nbsp;size&nbsp; | &nbsp;OS&nbsp;
 --|--|--|--
 mariadb | 10.4 | 392MB | Ubuntu 18.04
 mariadb | 10.3 (latest) | 381MB | Ubuntu 18.04
 mariadb | 10.2 | 378MB | Ubuntu 18.04
 mariadb | 10.1 | 391MB | Ubuntu 18.04
 mariadb | 10.0 | 352MB | Ubuntu 16.04
-mariadb | 5.5 | 352B | Ubuntu 14.04
+mariadb | 5.5 | 352MB | Ubuntu 14.04
 mariadb/columnstore | 1.2 | 1.15GB | CentOS 7
 percona | 8.0 | 727MB | CentOS 7
 percona | 5.7 (latest) | 583MB | CentOS 7
