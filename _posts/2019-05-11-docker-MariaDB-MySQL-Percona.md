@@ -41,9 +41,10 @@ yobasystems/alpine-mariadb | 10.2 | 228MB | alpine 3.8
 ipburger/mysql-alpine.docker | 10.2 | 154MB | alpine 3.8
 wangxian/alpine-mysql | 10.1 | 176MB |  alpine 3.4
 
-MariaDB 이미지들은 5.5부터 버전이 올라가면서 이미지 크기도 조금씩 커졌습니다.
-MySQL은 5.7버전까지는 MariaDB하고 이미지 크기가 비슷하다가 8.0 버전에서 MariaDB보다 커졌습니다.
-Percona 서버들이 이미지 크기가 제일 크긴 합니다.
-MariaDB ColumnStore 엔진은 1GB가 넘습니다.
-CentOS에서의 MariaDB / MySQL 이미지들이 더 크긴 하고요.
-alpine 리눅스를 사용하면 이미지 크기를 100~200MB 정도 줄일 수 있습니다.
+
+* MariaDB 이미지들은 5.5부터 버전이 올라가면서 이미지 크기도 조금씩 커졌습니다.
+* MySQL은 5.7버전까지는 MariaDB하고 이미지 크기가 비슷하다가 8.0 버전에서 MariaDB보다 커졌습니다.
+* Percona 서버들이 이미지 크기가 제일 크긴 합니다.
+* MariaDB ColumnStore 엔진은 1GB가 넘습니다.
+* CentOS에서의 MariaDB / MySQL 이미지들이 더 크긴 하고요.
+* alpine 리눅스를 사용하면 이미지 크기를 100~200MB 정도 줄일 수 있습니다.
