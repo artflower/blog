@@ -2,6 +2,8 @@
 layout: post
 title: "MariaDB Storage Engine - AWS S3"
 date: 2019-05-13 10:00:06 +0900
+categories: [MariaDB, AWS]
+tags: [MariaDB, AWS, S3]
 comments: true
 ---
 # MariaDB Storage Engine - AWS S3

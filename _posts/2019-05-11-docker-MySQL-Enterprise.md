@@ -2,6 +2,9 @@
 layout: post
 title: "MySQL 8.0 Enterprise : Docker 설치"
 date: 2019-05-11 16:30:06 +0900
+categories: [MySQL, docker]
+tags: [MySQL, docker]
+
 comments: true
 ---
 # MySQL 8.0 Enterprise : Docker 설치
