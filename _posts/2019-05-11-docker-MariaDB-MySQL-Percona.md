@@ -2,6 +2,9 @@
 layout: post
 title: "MariaDB / MySQL / Percona : Docker 이미지 비교"
 date: 2019-05-11 16:30:06 +0900
+categories: MariaDB.
+excerpt: ""
+tags: [MariaDB][MySQL][Percona][docker]
 comments: true
 ---
 # MariaDB / MySQL 8.0 / Percona : Docker 이미지 비교
@@ -11,7 +14,14 @@ https://severalnines.com/blog/popular-docker-images-mysql-and-mariadb-server
 
 해당 글을 보다가 좀 더 궁금한 사항들이 있어서 버전별로 좀 더 확인을 해 봤습니다.  
 
-<table style="width:90%;margin:5%;border:1px solid #444444;padding:3px;">
+
+<style>
+table {width:90%;margin:5%;border:1px solid #444444;padding:3px;text-align:center;}
+th, td {border:1px solid #444444;padding:3px;}
+</style>
+
+
+<table>
 <tr><th>repository</th><th>version(tag)</th><th>size</th><th>OS</th></tr>
 <tr><td>mariadb</td><td>10.4</td><td>392MB</td><td>Ubuntu 18.04</td></tr>
 <tr><td>mariadb</td><td>10.3 (latest)</td><td>381MB</td><td>Ubuntu 18.04</td></tr>
