@@ -11,35 +11,39 @@ https://severalnines.com/blog/popular-docker-images-mysql-and-mariadb-server
 
 해당 글을 보다가 좀 더 궁금한 사항들이 있어서 버전별로 좀 더 확인을 해 봤습니다.  
 
-|repository | &nbsp;version(tag)&nbsp; | &nbsp;size&nbsp; | &nbsp;OS&nbsp;|
-|---|---|---|---|
-| mariadb | 10.4 | 392MB | Ubuntu 18.04 |
-mariadb | 10.3 (latest) | 381MB | Ubuntu 18.04
-mariadb | 10.2 | 378MB | Ubuntu 18.04
-mariadb | 10.1 | 391MB | Ubuntu 18.04
-mariadb | 10.0 | 352MB | Ubuntu 16.04
-mariadb | 5.5 | 352MB | Ubuntu 14.04
-mariadb/columnstore | 1.2 | 1.15GB | CentOS 7
-percona | 8.0 | 727MB | CentOS 7
-percona | 5.7 (latest) | 583MB | CentOS 7
-percona | 5.6 | 421MB | CentOS 7
-percona | 5.5 | 294MB | Debian 9
-mysql | 8.0 (latest) | 443MB | Debian 9
-mysql | 5.7 | 373MB | Debian 9
-mysql | 5.6 | 256MB | Debian 9
-mysql | 5.5 | 205MB | Debian 9
-mysql/mysql-server | 8.0 | 289MB | Oracle Linux 7
-bitnami/mariadb | 10.1 (latest) | 261MB | Debian 9
-bitnami/mysql | 5.7 (latest) | 287MB | Debian 9
-centos/mariadb-102-centos7 | 10.2 | 456MB | CentOS 7
-centos/mariadb-101-centos7 | 10.1 | 476MB | CentOS 7
-centos/mariadb-100-centos7 | 10.0 | 439MB | CentOS 7
-centos/mysql-80-centos7 | 8.0 | 569MB | CentOS 7
-centos/mysql-57-centos7 | 5.7 | 452MB | CentOS 7
-centos/mysql-56-centos7 | 5.6 | 407MB | CentOS 7
-yobasystems/alpine-mariadb | 10.2 | 228MB | alpine 3.8
-ipburger/mysql-alpine.docker | 10.2 | 154MB | alpine 3.8
-wangxian/alpine-mysql | 10.1 | 176MB |  alpine 3.4
+<table>
+<tr><th>repository</th><th>version(tag)</th><th>size</th><th>OS</th></tr>
+<tr><td>mariadb</td><td>10.4</td><td>392MB</td><td>Ubuntu 18.04</td></tr>
+<tr><td>mariadb</td><td>10.3 (latest)</td><td>381MB</td><td>Ubuntu 18.04</td></tr>
+<tr><td>mariadb</td><td>10.2</td><td>378MB</td><td>Ubuntu 18.04</td></tr>
+<tr><td>mariadb</td><td>10.1</td><td>391MB</td><td>Ubuntu 18.04</td></tr>
+<tr><td>mariadb</td><td>10.0</td><td>352MB</td><td>Ubuntu 16.04</td></tr>
+<tr><td>mariadb</td><td>5.5</td><td>352MB</td><td>Ubuntu 14.04</td></tr>
+<tr><td>mariadb/columnstore</td><td>1.2</td><td>1.15GB</td><td>CentOS 7</td></tr>
+<tr><td>percona</td><td>8.0</td><td>727MB</td><td>CentOS 7</td></tr>
+<tr><td>percona</td><td>5.7 (latest)</td><td>583MB</td><td>CentOS 7</td></tr>
+<tr><td>percona</td><td>5.6</td><td>421MB</td><td>CentOS 7</td></tr>
+<tr><td>percona</td><td>5.5</td><td>294MB</td><td>Debian 9</td></tr>
+<tr><td>mysql</td><td>8.0 (latest)</td><td>443MB</td><td>Debian 9</td></tr>
+<tr><td>mysql</td><td>5.7</td><td>373MB</td><td>Debian 9</td></tr>
+<tr><td>mysql</td><td>5.6</td><td>256MB</td><td>Debian 9</td></tr>
+<tr><td>mysql</td><td>5.5</td><td>205MB</td><td>Debian 9</td></tr>
+<tr><td>mysql/mysql-server</td><td>8.0</td><td>289MB</td><td>Oracle Linux 7</td></tr>
+<tr><td>bitnami/mariadb</td><td>10.1 (latest)</td><td>261MB</td><td>Debian 9</td></tr>
+<tr><td>bitnami/mysql</td><td>5.7 (latest)</td><td>287MB</td><td>Debian 9</td></tr>
+<tr><td>centos/mariadb-102-centos7</td><td>10.2</td><td>456MB</td><td>CentOS 7</td></tr>
+<tr><td>centos/mariadb-101-centos7</td><td>10.1</td><td>476MB</td><td>CentOS 7</td></tr>
+<tr><td>centos/mariadb-100-centos7</td><td>10.0</td><td>439MB</td><td>CentOS 7</td></tr>
+<tr><td>centos/mysql-80-centos7</td><td>8.0</td><td>569MB</td><td>CentOS 7</td></tr>
+<tr><td>centos/mysql-57-centos7</td><td>5.7</td><td>452MB</td><td>CentOS 7</td></tr>
+<tr><td>centos/mysql-56-centos7</td><td>5.6</td><td>407MB</td><td>CentOS 7</td></tr>
+<tr><td>yobasystems/alpine-mariadb</td><td>10.2</td><td>228MB</td><td>alpine 3.8</td></tr>
+<tr><td>ipburger/mysql-alpine.docker</td><td>10.2</td><td>154MB</td><td>alpine 3.8</td></tr>
+<tr><td>wangxian/alpine-mysql</td><td>10.1</td><td>176MB</td><td> alpine 3.4</td></tr>
+</table>  
+  
+  
+    
 
 
 * MariaDB 이미지들은 5.5부터 버전이 올라가면서 이미지 크기도 조금씩 커졌습니다.
