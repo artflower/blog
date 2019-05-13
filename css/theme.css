@@ -55,6 +55,9 @@ body {
     color: #ee4444;
 }
 
+.post-content {
+    margin-bottom : 50px; padding-bottom:50px;border-bottom:1px solid #999999;
+
 .disqus {
-    padding-top: 50px;
+    margin-top: 50px;
 }
