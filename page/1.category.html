@@ -32,7 +32,7 @@ type: page
     }
   });
 
-  axios.get('/posts.json')
+  axios.get('/blog/posts.json')
   .then(function (response) {
     postList.posts = response.data.posts;
   })

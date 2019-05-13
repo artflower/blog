@@ -35,7 +35,7 @@ paginate: 10
 
 highlighter: rouge
 markdown: kramdown
-gems: ['jekyll-paginate','jekyll-sitemap']
+gems: ['jekyll-paginate-v2','jekyll-sitemap']
 
 category_dir: category/
 tag_dir: tag/

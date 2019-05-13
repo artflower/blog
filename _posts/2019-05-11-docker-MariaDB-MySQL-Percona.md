@@ -2,8 +2,8 @@
 layout: post
 title: "MariaDB / MySQL / Percona : Docker 이미지 비교"
 date: 2019-05-11 16:30:06 +0900
-categories: [MariaDB docker]
-tags: [MariaDB MySQL Percona docker]
+categories: [MariaDB, docker]
+tags: [MariaDB, MySQL, Percona, docker]
 comments: true
 ---
 # MariaDB / MySQL 8.0 / Percona : Docker 이미지 비교
