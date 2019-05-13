@@ -37,5 +37,7 @@ highlighter: rouge
 markdown: kramdown
 gems: ['jekyll-paginate','jekyll-sitemap']
 
+category_dir: category/
+tag_dir: tag/
 
 exclude: ['README.md', 'LICENSE']
