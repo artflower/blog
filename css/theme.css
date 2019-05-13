@@ -20,6 +20,11 @@ body {
     font-size: 1.3em;
 }
 
+.sidebar-nav-item {
+    color: #ee4444;
+    font-size: 1.3em;
+}
+
 .sidebar a {
     color: #428bca;
 }
