@@ -3,7 +3,7 @@ layout: post
 title: "MariaDB / MySQL / Percona : Docker 이미지 비교"
 date: 2019-05-11 16:30:06 +0900
 categories: MariaDB.
-excerpt: ""
+excerpt: "MariaDB / MySQL / Percona : Docker image size compare"
 tags: [MariaDB][MySQL][Percona][docker]
 comments: true
 ---
@@ -16,8 +16,8 @@ https://severalnines.com/blog/popular-docker-images-mysql-and-mariadb-server
 
 
 <style>
-table {width:90%;margin:5%;border:1px solid #444444;padding:3px;text-align:center;}
-th, td {border:1px solid #444444;padding:3px;}
+table {width:90%;margin:5%;border:1px solid #999999;padding:3px;}
+th, td {border:1px solid #999999;padding:3px;text-align:center;}
 </style>
 
 
