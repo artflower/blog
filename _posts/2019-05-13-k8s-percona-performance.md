@@ -6,7 +6,7 @@ categories: [Percona, Kubernetes]
 tags: [Percona, Kubernetes, MySQL, k8s, docker]
 comments: true
 ---
-# MariaDB Storage Engine - AWS S3
+# Percona - MySQL performance : kubernetes
 
 Percona 블로그에 Kubernetes 환경에서 MySQL 성능 관련한 글이 올라 왔습니다.
 https://www.percona.com/blog/2019/05/09/measuring-mysql-performance-kubernetes/
