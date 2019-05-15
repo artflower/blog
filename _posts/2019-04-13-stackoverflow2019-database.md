@@ -2,6 +2,8 @@
 layout: post
 title: "stack overflow Developer Survey Results 2019 데이터베이스 "
 date: 2019-04-13 13:00:06 +0900
+categories: [MariaDB, MySQL, PostreSQL]
+tags: [MariaDB, MySQL, PostreSQL, database]
 comments: true
 ---
 # stack overflow Developer Survey Results 2019 데이터베이스

@@ -2,6 +2,8 @@
 layout: post
 title: "MySQL 8.0 자동 mysql_upgrade"
 date: 2019-04-27 13:30:06 +0900
+categories: [MySQL]
+tags: [MySQL]
 comments: true
 ---
 # MySQL 8.0 자동 mysql_upgrade

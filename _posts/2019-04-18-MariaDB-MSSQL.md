@@ -2,6 +2,8 @@
 layout: post
 title: "MariaDB SQL_MODE=MSSQL 지원"
 date: 2019-04-18 13:30:06 +0900
+categories: [MariaDB, MSSQL]
+tags: [MariaDB, MSSQL]
 comments: true
 ---
 # MariaDB SQL_MODE=MSSQL 지원

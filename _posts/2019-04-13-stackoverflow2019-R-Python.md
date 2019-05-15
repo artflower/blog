@@ -2,6 +2,8 @@
 layout: post
 title: "stack overflow Developer Survey Results 2019 : R / SQL / Python "
 date: 2019-04-13 13:30:06 +0900
+categories: [SQL, R]
+tags: [SQL, R, Python]
 comments: true
 ---
 # stack overflow Developer Survey Results 2019 : R / SQL / Python

@@ -2,6 +2,8 @@
 layout: post
 title: "Percona PMM - PostgreSQL monitoring"
 date: 2019-04-24 13:30:06 +0900
+categories: [Percona, PostgreSQL]
+tags: [Percona, PostgreSQL, PMM, monitoring]
 comments: true
 ---
 # Percona PMM - PostgreSQL 오픈소스 데이터베이스 모니터링
