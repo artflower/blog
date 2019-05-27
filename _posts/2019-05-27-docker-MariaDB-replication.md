@@ -2,7 +2,7 @@
 layout: post
 title: "MariaDB replication : Docker"
 date: 2019-05-27 10:30:06 +0900
-categories: [MariaDB, Docker]
+categories: [MariaDB, docker]
 tags: [MariaDB, MySQL, Replication, docker]
 comments: true
 ---
