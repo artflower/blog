@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MariaDB replicaion : Docker"
+title: "Redis Sentinel : Docker"
 date: 2019-05-27 11:30:06 +0900
 categories: [Redis, Docker]
 tags: [Redis, replication, sentinel, docker]
