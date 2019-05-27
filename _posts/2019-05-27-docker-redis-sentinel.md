@@ -6,7 +6,7 @@ categories: [Redis, Docker]
 tags: [Redis, replication, sentinel, docker]
 comments: true
 ---
-# Docker 환경에서 Redis Sentinel replicaion 구성하기
+# Docker 환경에서 Redis Sentinel replication 구성하기
 Redis Sentinel 구성을 위해서 4개의 container를 사용합니다.  
 - redis-snt-1 : redis master  
 - redis-snt-2,3,4 : redis slave, sentinel  

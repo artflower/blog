@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "MariaDB replicaion : Docker"
+title: "MariaDB replication : Docker"
 date: 2019-05-27 10:30:06 +0900
 categories: [MariaDB, Docker]
 tags: [MariaDB, MySQL, Replication, docker]
 comments: true
 ---
-# Docker 환경에서 MariaDB replicaion 구성하기
+# Docker 환경에서 MariaDB replication 구성하기
 
 MariaDB(MySQL) replication 구성을 하려면 my.cnf 설정을 서버별로 맞춰줘야 합니다.  
 성능이나 관리를 위해서 데이터 디렉토리, 로그 디렉토리들을 기본 설정이 아닌 원하는 디렉토리로 해야 할 필요도 있습니다.  
