@@ -41,3 +41,6 @@ category_dir: category/
 tag_dir: tag/
 
 exclude: ['README.md', 'LICENSE']
+
+plugins:
+  - jekyll-sitemap
