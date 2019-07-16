@@ -21,7 +21,7 @@ Monty Widenius
 - https://www.facebook.com/michael.widenius  
 
 
-![MariaDB-Korea-Conference-2019](https://user-images.githubusercontent.com/5763024/61205527-3bc96f00-a72b-11e9-9427-87921833198a.jpg)
+![MariaDB-Korea-Conference-2019](https://user-images.githubusercontent.com/5763024/61205527-3bc96f00-a72b-11e9-9427-87921833198a.jpg){: width="100%"}
 
 
 페이스북 MariaDB 한국사용자 모임 그룹에 MariaDB 한국 지사장님이 소식을 올려 주셨네요.
