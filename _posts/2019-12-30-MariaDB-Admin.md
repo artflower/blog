@@ -10,5 +10,5 @@ comments: true
 
 오뉴이노베이션에서 작성한 MariaDB Administrator 교육 교재입니다.
 
-![MariaDB Admin 2019](https://github.com/artflower/ohnew/files/3986696/MariaDB-admin-2019.pdf)
+[MariaDB Admin 2019](https://github.com/artflower/ohnew/files/3986696/MariaDB-admin-2019.pdf)
 
