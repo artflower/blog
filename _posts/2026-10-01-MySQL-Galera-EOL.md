@@ -6,9 +6,9 @@ categories: [MariaDB, MySQL, Percona, Galera]
 tags: [MariaDB, MySQL, Percona, Galera]
 comments: true
 ---
-# MySQL Galera Cluster EOL로 인한 마이그레이션
+# MySQL Galera Cluster EOL/EOS로 인한 마이그레이션
 
-## [DB 아키텍처] MySQL Galera Cluster 공식 지원 종료(EOS)와 대안: MariaDB 및 Percona 전환 검토
+## MySQL Galera 공식 지원 종료(EOL/EOS) 대안: MariaDB 및 Percona 전환 검토
 
 **2026년 9월 30일을 기점으로 MySQL Galera Cluster에 대한 공식 유지보수 및 바이너리 릴리스 지원(EOS/EOL)이 종료되었습니다.** 
 과거 MySQL 환경에서 멀티 마스터(Multi-Master) 고가용성을 구현하기 위해 널리 사용되던 Galera Cluster 사용자들은 이제 신규 업데이트와 보안 패치를 받을 수 없게 되었으며, 시스템 안정성을 확보하기 위해 MariaDB나 Percona로의 전환을 검토해야 합니다.
